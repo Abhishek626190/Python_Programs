@@ -1,0 +1,13 @@
+l1=[10,20,30,15,40,50,60]
+#len(list)
+print(len(l1))
+#min(list)
+print(min(l1))
+#max(list)
+print(max(l1))
+#sum(list)
+print(sum(l1))
+#sorted(list)
+print(sorted(l1))
+#reverse
+print((l1))
